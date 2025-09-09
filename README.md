@@ -115,30 +115,7 @@ A Collection of programming [CheatSheets](./CheatSheets/) for developers to quic
 - [regex-cheatsheet.md](./CheatSheets/regex-cheatsheet.md)
 </details>
 
-## ___Instructions___
 
-- Before contributions, please read our [contributing guidelines](docs/CONTRIBUTING.md).
-- If you are new to open source contributions, check out [How-To at a glance](docs/HOW-TO.md).
-- Always follow and maintain the [code-of-conduct](docs/CODE-OF-CONDUCT.md).
-
-## ___Contribution___
-
-> Have a look at [contribution docs](./docs/CONTRIBUTING.md) for how to update any of the CheatSheets.
-
-- Add content to CheatSheets
-- Add new CheatSheets
-- Suggest changes to existing CheatSheets
-- Discuss ideas in issues
-
-## ___Thanks to all the contributors ❤___
-
-___Thanks to everyone___ who has submitted ___pull requests___ and ___issues___ on GitHub, made ___suggestions___, given a ___star___, and generally helped make this a better repository for developers.
-
-<!-- ![Contributors](https://contrib.rocks/image?repo=crescentpartha/CheatSheets-for-Developers) -->
-
-<a href = "https://github.com/crescentpartha/CheatSheets-for-Developers/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=crescentpartha/CheatSheets-for-Developers"/>
-</a>
 
 ## License
 
