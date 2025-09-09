@@ -1,4 +1,3 @@
-# CheatSheets-Developers
 
 # CheatSheets-for-Developers
 
